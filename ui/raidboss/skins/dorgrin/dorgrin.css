@@ -1,0 +1,65 @@
+.resizeHandle {
+    background-color: rgba(24, 24, 24, 0.6);
+}
+
+#timeline-container {
+    width: 100%;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+#timeline-resize-helper .resize-helper-bar, .timer-bar {
+    height: 2rem;
+    margin: 0;
+}
+
+#timeline-resize-helper .timeline-grid, .timeline-grid {
+    grid-template-columns: 100vw;
+}
+
+.timeline-bar-color {
+    background-color: #663399;
+}
+
+.timeline-bar-color.soon {
+    background-color: #ff8c19;
+}
+
+.timeline-bar-color.imminent {
+    background-color: #ff0000;
+}
+
+.timeline-bar-color.active {
+    background-color: #954adf;
+}
+
+html, body, .text {
+    font-family: 'Comfortaa';
+}
+
+/** Timeline stuff */
+#popup-text-container > .text {
+    font-family: 'Peace Sans';
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    font-variant-caps: all-small-caps;
+}
+
+.alarm-text {
+    color: #FFFFFF;
+    background-color: rgba(239,0,0,0.5);
+    /* background-color: #EF0000; */
+}
+
+.alert-text {
+    color: #FFFFFF;
+    background-color: rgba(255,140, 25, 0.5);
+    /* background-color: #ff8c19; */
+}
+
+.info-text {
+    color: #FFFFFF;
+    background-color: rgba(149,74,223, 0.5);
+    /* background-color: #954adf; */
+}
