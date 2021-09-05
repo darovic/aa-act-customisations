@@ -9,7 +9,11 @@ See the [wiki](https://github.com/darovic/aa-act-customisations/wiki/Installatio
 
 ### Warnings
 ![Raid Warning](https://i.imgur.com/y2tCQQN.png?1)
+These come in purple, orange and blue.
 
 ### Timelines
 ![Upcoming abilities](https://i.imgur.com/r1vEEV4.png?1)
+Upcoming Abilities
+
 ![Upcoming abilities with an active channeled ability](https://i.imgur.com/fiDNpID.png)
+Upcoming abilities with an actively channeled ability (note how the left half of the bar is black)
