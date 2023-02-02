@@ -1,3 +1,7 @@
+> # Archival Notice
+> The functionality of this modification is now built into Cactbot as of version 0.28.9, simply select `dorgrin` from the skin list.
+> See https://github.com/quisquous/cactbot/releases/tag/v0.28.9 for details.
+
 # ACT Customisations
 A few customisations to Cactbot's raidboss alerts and timelines. Changes include colours, font face, bar and alert sizes.
 
